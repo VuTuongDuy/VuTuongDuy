@@ -1,6 +1,5 @@
 [![MasterHead](https://cdn.vn.alongwalk.info/vn/wp-content/uploads/2023/02/15001711/image-75-hinh-anh-chim-hai-au-doc-nhat-uu-thich-moi-hien-nay-167636983157989.jpg)](https://github.com/VuTuongDuy)
 <h1 align="center">Hi 👋, I'm MongBien</h1>
-<h3 align="center">A boring backend programmer</h3>
 <img align="right" alt="MySelf" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vutuongduy&label=Profile%20views&color=0e75b6&style=flat" alt="vutuongduy" /> </p>
 
@@ -8,15 +7,9 @@
 
 - 🔭 I’m currently working on [Nhom4_QLBanGiayTT_Net105](https://github.com/DoanHuyen250894/Nhom4_QLBanGiayTT_Net105)
 
-- 🌱 I’m currently learning **.NET Framework, ASP.NET Core**
-
 - 👨‍💻 All of my projects are available at [https://github.com/VuTuongDuy?tab=repositories](https://github.com/VuTuongDuy?tab=repositories)
 
-- 💬 Ask me about **C#**
-
 - 📫 How to reach me **vuduy10a7@gmail.com**
-
-- ⚡ Fun fact **I like Lacasa De Papel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
